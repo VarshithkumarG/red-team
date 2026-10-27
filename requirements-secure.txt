@@ -1,0 +1,2 @@
+# Remediated dependency profile; current release checked 2026-10-27.
+Flask==3.1.3

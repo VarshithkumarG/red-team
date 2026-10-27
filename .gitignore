@@ -1,0 +1,8 @@
+.venv/
+.labtools/
+__pycache__/
+*.py[cod]
+secureshop.db
+*.log
+reports/*.session
+reports/*.session.*
